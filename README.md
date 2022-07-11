@@ -1,10 +1,9 @@
-<div align="center">
-  <a href="https://github.com/PB7dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PB7dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<p align="center">
+    A simple programmer, learning TypeScript, Golang and JavaScript.
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-</div>
-
+<p align="center">
+  <a href="https://discord.com/users/806626442100211712" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/806626442100211712?bg=1e2228&borderRadius=5px" alt="Discord Status"/>
+    </a>
+</p>
