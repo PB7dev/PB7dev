@@ -1,5 +1,5 @@
 <p align="center">
-    A simple programmer, learning JavaScript.
+    JavaScript S2.
 </p>
 
 <p align="center">
