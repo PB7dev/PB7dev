@@ -1,5 +1,5 @@
 <p align="center">
-    A simple programmer, learning TypeScript, Golang and JavaScript.
+    A simple programmer, learning JavaScript.
 </p>
 
 <p align="center">
